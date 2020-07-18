@@ -21,6 +21,7 @@
         "@typescript-eslint"
     ],
     "rules": {
-        "eqeqeq": ["warn"]
+        "eqeqeq": ["warn"],
+        "no-undef": ["warn"]
     }
 }
